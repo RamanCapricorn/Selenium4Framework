@@ -1,0 +1,12 @@
+[TRACE] 2022-08-24 16:33:27.163 [main] log4jDemo - This is a trace message
+[DEBUG] 2022-08-24 16:33:27.169 [main] log4jDemo - This is a debug message
+[INFO ] 2022-08-24 16:33:27.169 [main] log4jDemo - This is a info message.
+[ERROR] 2022-08-24 16:33:27.169 [main] log4jDemo - This is a error message.
+[WARN ] 2022-08-24 16:33:27.169 [main] log4jDemo - This is a warn message.
+[FATAL] 2022-08-24 16:33:27.170 [main] log4jDemo - This is a fatal message.
+[TRACE] 2022-08-24 16:33:57.245 [main] log4jDemo - This is a trace message
+[DEBUG] 2022-08-24 16:33:57.251 [main] log4jDemo - This is a debug message
+[INFO ] 2022-08-24 16:33:57.252 [main] log4jDemo - This is a info message.
+[ERROR] 2022-08-24 16:33:57.252 [main] log4jDemo - This is a error message.
+[WARN ] 2022-08-24 16:33:57.252 [main] log4jDemo - This is a warn message.
+[FATAL] 2022-08-24 16:33:57.252 [main] log4jDemo - This is a fatal message.
